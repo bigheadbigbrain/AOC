@@ -19,4 +19,6 @@ for i in range(len(inputNum)):
             shipTotal+=currentReq
     total += shipTotal
 print(total)
+#adding comment because we are praticing source control
+
 
